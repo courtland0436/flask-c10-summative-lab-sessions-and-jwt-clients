@@ -56,7 +56,7 @@ If you wish to setup the app manually you can do the following.
     npm start
     ```
 
----
+
 
 ## Backend Setup
 
